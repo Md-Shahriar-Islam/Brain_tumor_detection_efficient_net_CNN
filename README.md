@@ -18,7 +18,7 @@
 avg       
 
 #Confusion_Matrix
-<img src="https://github.com/Md-Shahriar-Islam/Brain_tumor_detection_efficient_net_CNN/assets/88028870/e53ebae2-7a0a-41a8-b86b-2cf3e9ea1ea4" width="100" height="100">
+<img src="https://github.com/Md-Shahriar-Islam/Brain_tumor_detection_efficient_net_CNN/assets/88028870/e53ebae2-7a0a-41a8-b86b-2cf3e9ea1ea4" width="600" height="600"></br>
 #loss_vs_epoch
 <img src="https://github.com/Md-Shahriar-Islam/Brain_tumor_detection_efficient_net_CNN/assets/88028870/090246df-ae0c-4a17-b640-fe24bdc86dd2" width="100" height="100">
 #accuracy_vs_epoch
