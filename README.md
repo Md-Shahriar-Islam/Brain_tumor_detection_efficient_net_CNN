@@ -1,4 +1,4 @@
-[result_resnet.txt](https://github.com/Md-Shahriar-Islam/Brain_tumor_detection_efficient_net_CNN/files/13822236/result_resnet.txt)# Brain_tumor_detection_efficient_net_CNN
+# Brain_tumor_detection_resnet
 * Used resnet50
 * MRI image dataset containing 7023 images
 * 5712 images used to train the model, 655 for validating, and 656 for testing
