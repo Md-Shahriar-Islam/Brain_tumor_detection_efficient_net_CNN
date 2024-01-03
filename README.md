@@ -1,9 +1,9 @@
 # Brain_tumor_detection_efficient_net_CNN
-*Used resnet50
-*MRI image dataset containing 7023 images
-*5712 images used to train the model, 655 for validating, and 656 for testing
-*4 categories(no_tumor,meningioma,pituitary,giloma)
-*Image augmentation has been done to get better accuracy and image resizing has been done to reduce computational effort
+* Used resnet50
+* MRI image dataset containing 7023 images
+* 5712 images used to train the model, 655 for validating, and 656 for testing
+* 4 categories(no_tumor,meningioma,pituitary,giloma)
+* Image augmentation has been done to get better accuracy and image resizing has been done to reduce computational effort
 
 # Classification_report
               precision    recall  f1-score   support
