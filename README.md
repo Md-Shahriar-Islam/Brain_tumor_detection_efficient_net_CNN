@@ -22,7 +22,7 @@ avg
 <img src="https://github.com/Md-Shahriar-Islam/Brain_tumor_detection_efficient_net_CNN/assets/88028870/e53ebae2-7a0a-41a8-b86b-2cf3e9ea1ea4" width="500" height="500"></br>
 #loss_vs_epoch
 
-<img src="https://github.com/Md-Shahriar-Islam/Brain_tumor_detection_efficient_net_CNN/assets/88028870/090246df-ae0c-4a17-b640-fe24bdc86dd2" width="500" height="500">
+<img src="https://github.com/Md-Shahriar-Islam/Brain_tumor_detection_efficient_net_CNN/assets/88028870/090246df-ae0c-4a17-b640-fe24bdc86dd2" width="800" height="500"></br>
 #accuracy_vs_epoch
 
-<img src="https://github.com/Md-Shahriar-Islam/Brain_tumor_detection_efficient_net_CNN/assets/88028870/fd0cc7e9-1b9a-4a79-a9cf-806674616bfd" width="500" height="500">
+<img src="https://github.com/Md-Shahriar-Islam/Brain_tumor_detection_efficient_net_CNN/assets/88028870/fd0cc7e9-1b9a-4a79-a9cf-806674616bfd" width="800" height="500"></br>
